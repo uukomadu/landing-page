@@ -1,0 +1,201 @@
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #f2898b;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: #f2898b;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: #f2898b;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: #f2898b;
+}
+
+* {
+    margin: 0 0 0 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+nav {
+    background: #2d303a;
+    margin: 0 auto;
+    height: 100px;
+}
+
+#logo {
+    float: left;
+    margin: 35px;
+}
+
+li {
+    display: inline;
+    padding-left: 25px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#menu {
+    float: right;
+    margin: 35px 25px 30px 25px;
+}
+
+.slideshow {
+    height: 550px;
+    background-color: #f06c64;
+    margin: 0 auto;
+}
+
+#iphone {
+    text-align: center;
+    padding-top: 35px;
+}
+
+#icon_left {
+    float: left;
+}
+
+#icon_right {
+    float: right;
+}
+
+.services {
+    background-color: #f2f2f2;
+    height: 450px;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+h2 {
+    color: #666d89;
+    padding-top: 25px;
+}
+
+h3 {
+    color: #666d89;
+    font-weight: 300;
+    padding-top: 25px;
+    line-height: 1.5;
+}
+
+h4 {
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+
+h5 {
+    font-weight: 300;
+    color: #666d89;
+    font-size: 15px;
+}
+
+.col-4 {
+    border: 1px;
+    width: 22%;
+    height: 50px;
+    display: inline-block;
+    line-height: 1.5;
+    color: #666d89;
+    padding-top: 35px;
+    margin-left: 50px;
+    padding-left: 75px;
+}
+
+.portfolio {
+    height: 1000px;
+    background-color: #2d303a;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+.button {
+    border: 1px solid #666d89;
+    background: #2d303a;
+    color: #666d89;
+    border-radius: 5px;
+    padding: 3px;
+    margin-right: 5px;
+}
+
+.btn_p {
+    padding-top: 15px;
+}
+
+.col-3 {
+    display: inline-block;
+    margin: 40px 35px 40px 0;
+    padding-right: 38px;
+
+}
+
+.about {
+    height: 750px;
+    background-color: #f2f2f2;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+.col-sm-4 {
+    border: 1px;
+    width: 25%;
+    height: 50px;
+    display: inline-block;
+    line-height: 1.5;
+    color: #666d89;
+    padding-top: 35px;
+    padding-left: 75px;
+}
+
+.quote {
+    height: 700px;
+    background-color: #f06c64;
+    padding-left: 45px;
+    padding-right: 45px;
+    color: #f0d8d9;
+}
+
+#last {
+    color: #f0d8d9;
+}
+
+#final {
+    color: #f0d8d9;
+}
+
+form {
+    padding-top: 35px;
+}
+
+input[type=text], input[type=email], textarea {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: #d6564f;
+    color: white;
+    border-radius: 5px;
+}
+
+p {
+    font-weight: 300;
+    line-height: 2;
+    padding-right: 20px;
+}
+
+.shft {
+    float: right;
+    width: 30%;
+    padding-top: 40px;
+}
+
+.footer {
+    background: #2d303a;
+    margin: 0 auto;
+    height: 100px;
+}
